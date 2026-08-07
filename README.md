@@ -28,7 +28,9 @@ If you want the resume version, **grab my CV (link above)**. If you want to see 
 
 ### 1. AP Interactive KPI Dashboard
 
-**[`Dashboards/Accounts Payable-Interactive KPI HTML Dashboard.html`](Dashboards/Accounts%20Payable-Interactive%20KPI%20HTML%20Dashboard.html)** — open in any browser, no install, no backend
+> 📥 **Download to view interactively:** GitHub's web preview blocks JavaScript, so the dashboard won't render here. **Click the link below → download the file (button at top right) → open it in your browser** (Chrome, Edge, Firefox, Safari). Works offline, no install, no backend.
+
+**[`Dashboards/Accounts Payable-Interactive KPI HTML Dashboard.html`](Dashboards/Accounts%20Payable-Interactive%20KPI%20HTML%20Dashboard.html)** — full AP control tower with drill-down, CSV export, and aging buckets.
 
 A self-contained AP control tower. I built it because nobody on the team had a single view of *"what's open, what's aging, who's blocked, what's getting worse."*
 
